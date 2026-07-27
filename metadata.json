@@ -1,0 +1,6 @@
+{
+  "name": "Travel With Marwa",
+  "description": "Explore the Beauty of Northern Pakistan - Premium 3 Days / 2 Nights Family Tour Booking & Information",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
