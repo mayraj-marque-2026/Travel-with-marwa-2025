@@ -41,7 +41,7 @@ export const FEATURED_LOCATIONS: TourLocation[] = [
     name: 'KAGHAN',
     tagline: 'Jewel of Khyber Pakhtunkhwa',
     description: 'An enchanting valley dotted with terraced fields, pristine waterfalls, and serene mountain retreats perfect for family relaxation.',
-    image: '/src/assets/images/kaghan-valley.jpg',
+    image: '/images/kaghan-valley.jpg',
     altitude: '7,000 ft',
     highlights: ['Alpine Climate', 'Balakot River Banks', 'Kiwai Waterfall Stop', 'Dense Pine Forests'],
   },
