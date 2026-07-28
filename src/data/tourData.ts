@@ -8,7 +8,7 @@ import {
   FAQItem,
 } from '../types';
 import naranImage from '../assets/images/naran_mountain_road_1785142096421.jpg';
-import raftingImage from '../assets/images/kunhar_river.jpg';
+import raftingImage from '../assets/images/kunhar-river.jpg';
 import busDepartureImage from '../assets/images/luxury_bus_departure_marwa_1785142839368.jpg';
 
 export const BUSINESS_INFO = {
